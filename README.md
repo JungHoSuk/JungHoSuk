@@ -19,20 +19,20 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-0769AD?style=flat&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-02303A?style=flat&logo=Gradle&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-6DB33F?style=flat&logo=Mybatis&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-005F0F?style=flat&logo=Thymeleaf&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-2C2255?style=flat&logo=Eclipse&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=IntelliJ&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-007ACC?style=flat&logo=Visual Stuido Code&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-F05032?style=flat&logo=Git&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-181717?style=flat&logo=Git-Hub&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-0052CC?style=flat&logo=SourceTree&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-6DB33F?style=flat&logo=Mybatis&logoColor=white" />
+	<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Stuido Code-007ACC?style=flat&logo=Visual Stuido Code&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=SourceTree&logoColor=white" />
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoSuk&layout=compact"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=JungHoSuk&show_icons=true">
