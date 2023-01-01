@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Mybatis-6DB33F?style=flat&logo=Mybatis&logoColor=white" />
 	<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJ-#000000?style=flat&logo=IntelliJ&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual Stuido Code-#007ACC?style=flat&logo=Visual Stuido Code&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual Stuido Code-007ACC?style=flat&logo=Visual Stuido Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=SourceTree&logoColor=white" />
