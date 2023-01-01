@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoSuk&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoSuk&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=JungHoSuk&show_icons=true">
