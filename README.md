@@ -1,4 +1,4 @@
-### 백엔드 개발자가 되고 싶은 정호석입니다 👋
+### 논리적인 개발자가 되고 싶은 정호석입니다 👋
 
 <!--
 **JungHoSuk/JungHoSuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
